@@ -1,0 +1,16 @@
+<table cellspacing=0 cellpadding=0>       
+  <tbody>
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C">       
+    <table cellspacing="1" cellpadding="5">          
+          <tbody>
+            <tr bgcolor="silver"><td colspan="2"><b>Заголовок таблицы</b> </td></tr>
+                    
+            <tr bgcolor="white"> <td><b>1</b></td> <td>2</td> </tr>
+          
+            <tr bgcolor="#EEEEEE"> <td><b>3</b></td> <td>4</td> </tr>
+           </tbody>
+         </table>
+             </td></tr>
+   </tbody>
+</table>
